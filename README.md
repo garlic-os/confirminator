@@ -1,4 +1,8 @@
 # confirminator
-A JS bookmarklet that adds a confirmation on close to any tab
+A JS bookmarklet that adds a confirmation for leaving to any tab
 
-## [Bookmark the link on this page](https://grosserly.github.io/confirminator)
+Click the bookmarklet while you're on a page and it'll keep you from leaving the page until you press OK
+
+## [Bookmark the link on this page (I tried to just put it here in the readme but I couldn't get it to work in markdown)](https://grosserly.github.io/confirminator)
+
+Did you know this stupid thing uses _three_ layers of quotes?
